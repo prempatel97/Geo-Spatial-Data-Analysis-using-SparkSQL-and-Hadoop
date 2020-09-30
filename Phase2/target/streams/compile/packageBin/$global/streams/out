@@ -1,0 +1,59 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\cse512-hotspot-analysis-template_2.11-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotzoneUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotzoneUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotzoneAnalysis$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotzoneAnalysis$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotzoneAnalysis$$anonfun$runHotZoneAnalysis$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotzoneAnalysis$$anonfun$runHotZoneAnalysis$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotzoneAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotzoneAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\Entrance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\Entrance.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\Entrance$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\Entrance$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\Entrance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\Entrance$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotzoneAnalysis$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotzoneAnalysis$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotzoneAnalysis$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotzoneAnalysis$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotzoneAnalysis$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotzoneAnalysis$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotzoneAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotzoneAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotzoneUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotzoneUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotzoneAnalysis$$anonfun$runHotZoneAnalysis$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotzoneAnalysis$$anonfun$runHotZoneAnalysis$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  F:\ASU couse material\Sem 3 Spring 2020\CSE 512 Distributed Database Systems\Project\CSE512-Project-Phase2-Template-master\target\scala-2.11\classes\cse512\HotcellAnalysis$$anonfun$runHotcellAnalysis$7.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
